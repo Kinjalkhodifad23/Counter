@@ -1,0 +1,46 @@
+body{
+    background-color: #dae9fe;
+}
+div{
+    background-color: white;
+   width: 800px;
+   margin: 150px auto ;
+}
+.h11{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: #3e97fdce;
+    color: white;
+    box-shadow: 5px 4px 5px black;
+    transform: scale(1.09);
+    font-size: 35px;
+    
+}
+.h1{
+    font-size: 55px;
+    padding-top: 30px;
+    text-align: center;
+    /* color: white; */
+}
+.btn{
+    justify-content:space-evenly;
+    display: flex;
+    align-items: center;
+}
+.btn button{
+    color: white;
+    background-color: #3e97fdce;
+    padding: 12px 29px 12px 29px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    border-radius: 15px;
+    border:2px solid rgb(120, 115, 115);
+    box-shadow: 2px 3px 2px #000000ce;
+}
+.btn .btnbg{
+    background-color: white;
+    color: #3e97fdce;
+    border: 2px solid;
+    box-shadow: 2px 3px 2px #3e97fdce;
+}

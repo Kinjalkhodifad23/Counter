@@ -1,12 +1,14 @@
 import { useState } from 'react'
 import Count from './Count'
+import Stopwatch from './Stopwatch'
 
 var App=()=>{
 
 
   return (
     <>
-    <Count/>
+    {/* <Count/> */}
+    <Stopwatch/>
     </>
   )
 }
