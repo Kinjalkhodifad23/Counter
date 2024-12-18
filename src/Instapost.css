@@ -15,7 +15,7 @@ body{
     background-color: white;
     border-radius: 30px;
 }
-.photo{
+.photo {
     width: 470px;
     height: 500px;
     background-color: rgba(122, 122, 122, 0.34);
@@ -23,6 +23,7 @@ body{
     border-radius: 20px;
 
 }
+
 .img1{
     width: 150px;
     height: 150px;
@@ -53,4 +54,8 @@ button{
 .main2{
     display: flex;
     justify-content:space-between;
+}
+h3{
+    margin-left: 55px;
+    margin-bottom:0px;
 }
